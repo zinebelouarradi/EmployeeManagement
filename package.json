@@ -1,8 +1,7 @@
 {
   "name": "emplyee_management_system_using_react",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "http://zinebelouarradi.github.io/EmployeeManagement",
+  "homepage": "https://zinebelouarradi.github.io/EmployeeManagement/",
   "dependencies": {
     "moment-timezone": "^0.5.21",
     "react": "^16.13.1",
